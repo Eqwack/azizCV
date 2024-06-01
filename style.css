@@ -1,0 +1,274 @@
+body{
+  background-color: #171717;
+}
+
+.portf{
+   background-color: #2f2e2e;
+   padding: 15px ;
+   margin : 10px 20px 20px 20px ;
+  width: 270px;
+  height: 670px;
+  border-radius: 20px;
+  font-weight: bold;    
+font-size: 15px;
+font-family: Arial;
+
+position: fixed;
+
+}
+.photo{
+text-align: center;
+
+}
+#moi{
+ border : 1px solid; border-radius: 20px; margin-top: 30px; 
+
+}
+.item_margin{
+margin-left: 5px;
+
+}
+.item{
+  background-color: #1b1b1b;
+  color:#ffffff;
+  height: 50px;
+  padding: 5px;
+  border-radius: 15px;
+}
+
+#tick{
+  background-color: #171717; 
+  padding: 8px; 
+  border-radius: 10px ;
+  color:#ffffff;
+}
+.iacon{
+    float: left;
+}
+
+
+
+#about-me{
+  width:1020px;
+  
+  padding: 20px 20px 20px 20px;
+  position: absolute; top: 20px;left:390px;
+  background-color: #2f2e2e;
+border-radius: 10px;
+height: 670px;
+font-family: Arial;
+
+
+}
+.gbcyan{
+  background-color: #1b1b1b;
+  padding: 6px;
+  width: 300px;
+  border-radius: 10px;
+  text-align: center;
+  color:white;
+  
+}
+
+#text-aboutme p{
+  color: #ffffff;
+  font-weight: bold;
+ 
+}
+.lign1{
+  width: 200px; 
+  margin-left: 2px; 
+  border-width: 2px; border-style: solid; 
+  border-color: #ffc800; 
+  border-radius: 10px;
+
+
+
+}
+
+.iacon2{
+  float: left;
+  width: 100px;
+}
+.deandprog{
+  padding: 10px;
+  background-color: #1b1b1b;
+  border-radius: 10px;
+  width: 990px;
+  height: 120px;
+
+
+}
+.deandprog span{
+  margin-left: 10px;
+  color: white;
+font-size: 30px;
+font-weight: bold;
+
+}
+.deandprog p{
+  display: inline-block;
+  font-weight: bold;
+  margin-left: 120px;
+  margin-top: -100px;
+  color: #cacaca;
+}
+/*---------exp---------------------------------*/
+#exp{ width:1020px;
+  
+  padding: 20px;
+  position: absolute; top: 755px;left:390px;
+  background-color: #2f2e2e;
+border-radius: 10px;
+height: 300px;
+font-family: Arial;
+
+}
+ul{
+  color: #ffffff;
+}
+button{
+  background-color: #1b1b1b;
+  color:#ffffff;;
+}
+
+.titre{
+  font-size: 20px; 
+  font-weight: bold;
+   color: #688afc;
+}
+
+
+/*-------------comp forma-----------------------------*/
+#com{ 
+  width:1020px;
+  
+  padding: 20px;
+  position: absolute; top: 1130px;left:390px;
+  background-color: #2f2e2e;
+border-radius: 10px;
+height: 400px;
+font-family: Arial;
+}
+/*-------------lang cetr-----------------------------*/
+#langcent{ 
+  width:1020px;
+  
+  padding: 20px;
+  position: absolute; top: 1585px;left:390px;
+  background-color: #2f2e2e;
+border-radius: 10px;
+height: 300px;
+font-family: Arial;
+
+}
+
+.landd{
+  font-weight: bold;
+  color: #688afc;
+}
+/*-------------contac-----------------------------*/
+#contact{ 
+  width:1020px;
+  
+  padding: 20px;
+  position: absolute; top: 1950px;left:390px;
+  background-color: #2f2e2e;
+border-radius: 10px;
+height: 800px;
+font-family: Arial;
+
+}
+#map{
+  border-radius: 10px;
+  width: 1010px;
+  height: 400px;
+
+}
+#bttt{
+  padding: 5px;
+  border: 0;
+  border-radius: 3px;
+  width: 200px;
+  height: 30px;
+  float: right;
+
+}
+#name,#address,#message{
+  padding-left:15px;
+  border: 0;
+  border-radius: 10px;
+}
+#name,#address{
+  width: 485px;
+ height: 40px;
+ font-size: 25px;
+ background-color: #373737;
+ color: aliceblue;
+ }
+
+#address{
+float: right;
+}
+
+#message{
+  padding-top: 20px;
+  width: 1000px;
+ height: 80px;
+ font-size: 20px;
+ background-color: #373737;
+ color: aliceblue;
+
+
+}
+/*------------------------------------------*/
+
+#about{
+  position: fixed; top: 0;right:0;
+  padding:15px;
+  background-color: #1b1b1b;
+ border-radius: 0px 0px 0px 10px;
+
+
+}
+
+#about button{
+
+ padding: 5px;
+ border: 0;
+ border-radius: 3px;
+
+
+}
+
+button:hover{
+  background-color: #688afc;
+}
+
+
+
+
+::-webkit-scrollbar {
+  width: 10px; 
+}
+
+
+::-webkit-scrollbar-track {
+  background: #a4a4a4; 
+}
+
+
+::-webkit-scrollbar-thumb {
+  background: #373737; 
+  
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2f2e2e; 
+}
+
+
+
+
+
